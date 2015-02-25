@@ -1,0 +1,10 @@
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\Gift.Business.dll.config
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\Gift.Business.dll
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\Gift.Business.pdb
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\Gift.Data.dll
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\PdfSharp.dll
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\Gift.Data.pdb
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\obj\Debug\Gift.Business.dll
+C:\Users\461030\documents\visual studio 2010\Projects\WindowsFormsApplication2\Gift.Business\obj\Debug\Gift.Business.pdb

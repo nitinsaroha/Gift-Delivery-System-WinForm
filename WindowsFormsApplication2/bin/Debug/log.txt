@@ -1,0 +1,66 @@
+
+Log Entry : 11:09:42 AM Thursday, January 29, 2015
+  :
+  :Invalid Username/Password
+-------------------------------
+
+Log Entry : 11:17:59 AM Thursday, January 29, 2015
+  :
+  :*Invalid Input
+-------------------------------
+
+Log Entry : 11:19:29 AM Thursday, January 29, 2015
+  :
+  :*Already Exists
+-------------------------------
+
+Log Entry : 11:19:29 AM Thursday, January 29, 2015
+  :
+  :*Already Exists
+-------------------------------
+
+Log Entry : 12:23:33 PM Saturday, January 31, 2015
+  :
+  :Invalid Username/Password
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Input Required
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Invalid Date
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Input Required
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Input Required
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Input Required
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :
+*Input Required
+-------------------------------
+
+Log Entry : 4:20:32 PM Thursday, February 05, 2015
+  :
+  :*Input Required
+-------------------------------
+
+Log Entry : 4:22:19 PM Thursday, February 05, 2015
+  :
+  :*Already Exists
+-------------------------------
